@@ -1,0 +1,4 @@
+{
+  "mongoURI":
+    "mongodb+srv://nodeappuser:nodeapppassword@cluster0.a5hvx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
